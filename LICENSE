@@ -1,0 +1,20 @@
+Paradox Buds
+Copyright (c) 2026 Chinmay (chinmays-tanx09). All rights reserved.
+
+This is proprietary software. No license is granted to copy, modify, merge,
+publish, redistribute, sublicense, re-upload, mirror or sell Paradox Buds or any
+part of it, in original or modified form, without prior written permission
+from the copyright holder.
+
+You may download the official APK from
+https://github.com/chinmays-tanx09/paradox-buds/releases and install it on your own
+devices for personal use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+Third-party components included in the app (AndroidX, Jetpack Compose, Kotlin,
+kotlinx.serialization, Room) remain under their own licenses (Apache 2.0).
+Device protocol facts for some headphone models come from the Gadgetbridge and
+OpenFreebuds projects' published documentation and test vectors.
